@@ -9,9 +9,11 @@ Minimal. Fast. Ethical.
 Built for **students, researchers, and red team enthusiasts** who value deep focus over noise.
 
 
+
 ## 📸 **Screenshot**
 
 ![Focus Tube in action](SS1.jpg)
+
 
 
 ## 🧩 **What Focus Tube Does**
@@ -28,12 +30,14 @@ Designed for **maximum focus, minimal interference**.
 > \* *If configured to use proxy domains (e.g., `yout-ube.com`), see disclaimer below.*
 
 
+
 ## 🛰️ **Tech Stack**
 
 - **Manifest V3** – Latest Chrome Extension API  
 - **JavaScript + CSS** – Real-time DOM manipulation  
 - **Content Scripts** – Clean UI modifications  
 - **Passive UI Filtering** – No network interception or request blocking  
+
 
 
 ## ⚡ **Features**
@@ -46,6 +50,7 @@ Designed for **maximum focus, minimal interference**.
 | Full-Screen Optimizer      | Auto-focuses on video player                                |
 | Local Execution            | All logic runs in your browser, nothing leaves your device  |
 | Lightweight                | Under 100KB, no background bloat                            |
+
 
 
 ## 🛠️ Installation
@@ -75,6 +80,7 @@ Designed for **maximum focus, minimal interference**.
 3. Select any file in the repo (e.g., `manifest.json`)
 
 
+
 ## ⚙️ How It Works
 
 Focus Tube uses **client-side DOM manipulation** to:
@@ -84,6 +90,7 @@ Focus Tube uses **client-side DOM manipulation** to:
 
 ✅ **No requests are blocked.**  
 ✅ **No data is sent externally** (unless optional proxy mode is enabled).
+
 
 
 ## ⚠️ Disclaimer
@@ -103,6 +110,7 @@ Focus Tube uses **client-side DOM manipulation** to:
 > Always comply with [YouTube’s Terms of Service](https://www.youtube.com/t/terms).
 
 
+
 ## 🧠 Use Cases
 
 - Watching cybersecurity tutorials without distraction  
@@ -112,6 +120,7 @@ Focus Tube uses **client-side DOM manipulation** to:
 - Simulating clean UI environments for UX research  
 
 Ideal for the **learning phase** where focus drives understanding.
+
 
 
 ## **Author**
