@@ -1,20 +1,24 @@
 {
   "manifest_version": 3,
-  "name": "Focus Tube - Clean YouTube",
-  "version": "1.0",
-  "description": "Removes distractions and adds full screen. Build this for only students, film watchers and non stop podcasters.",
-  "icons": {
-    "32": "main-icon.png",
-    "128": "main-icon.png"
-  },
+  "name": "Yout-ube Player",
+  "version": "1.6",
+  "description": "Official client for yout-ube.com — watch YouTube videos ad-free, on loop, and distraction-free. Powered by yout-ube.com.",
+  "permissions": ["activeTab", "tabs", "storage"],
   "action": {
     "default_popup": "popup.html"
   },
-  "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["https://www.youtube.com/*"],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://yout-ube.com/*",
+        "https://www.youtube-nocookie.com/*"
+      ],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "icons": {
+    "32": "main-icon.png",
+    "128": "main-icon.png"
+  }
 }
