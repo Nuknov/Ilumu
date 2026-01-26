@@ -1,10 +1,10 @@
-# 🔥 **Yout-ube -- Distraction-Free YouTube Viewer**
+# 🔥 **Ilumu -- Distraction-Free YouTube Viewer**
 
 [![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Powered by yout-ube.com](https://img.shields.io/badge/Powered%20by-yout--ube.com-FF0000?logo=youtube&logoColor=white)](https://yout-ube.com)
+[![Powered by Ilumu.com](https://img.shields.io/badge/Powered%20by-ilumu.com-FF0000?logo=youtube&logoColor=white)](https://Ilumu.com)
 
-**Yout-ube** is a lightweight browser extension that removes YouTube distractions including ads, comments, and recommended videos to create a **clean, focused viewing experience**.
+**Ilumu** is a lightweight browser extension that removes YouTube distractions including ads, comments, and recommended videos to create a **clean, focused viewing experience**.
 
 Minimal. Fast. Ethical.  
 Built for **students, researchers, and red team enthusiasts** who value deep focus over noise.
@@ -13,23 +13,22 @@ Built for **students, researchers, and red team enthusiasts** who value deep foc
 
 ## 📸 **Screenshots**
 
-![Yout-ube in before](SS1.jpg)
-![Yout-ube in action](SS2.jpg)
+![Ilumu in before](SS1.jpg)
+![Ilumu in action](SS2.jpg)
 
 ---
 
-## 🧩 **What Yout-ube Does**
+## 🧩 **What Ilumu Does**
 
 - Hides **YouTube ad placeholders** (visual only)
 - Removes the **comments section**
 - Clears **sidebar recommendations & end screens**
 - Optimizes layout for **full-screen learning**
-- Works instantly on **youtube.com**
 - Runs **entirely in-browser**
 
 Designed for **maximum focus, minimal interference**.
 
-> \* *If configured to use proxy domains (e.g., `yout-ube.com`), see disclaimer below.*
+> \* *If configured to use proxy domains (e.g., `Ilumu.com`), see disclaimer below.*
 
 ---
 
@@ -59,8 +58,8 @@ Designed for **maximum focus, minimal interference**.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Nuknov/Yout-ube.git
-   cd Yout-ube
+   git clone https://github.com/Nuknov/Ilumu.git
+   cd Ilumu
    1. Open your browser extension page  
    - Chrome: Navigate to chrome://extensions/  
    - Edge: Navigate to edge://extensions/
@@ -70,11 +69,16 @@ Designed for **maximum focus, minimal interference**.
 
 3. **Load the extension**  
    - Click **"Load unpacked"**  
-   - Select the `Yout-ube` directory
+   - Select the `Ilumu` directory
 
 4. **Pin the extension (optional)**  
    - Click the puzzle icon in the toolbar  
-   - Pin **"Yout-ube"**
+   - Pin **"Ilumu"**
+
+5. **Paste The YouTube Link There**  
+   - Copy the YT Link for example: https://www.youtube.com/watch?v=dQw4w9WgXcQ  
+   - ENTER
+   - Watch ad free video without distraction
 
 ### Firefox (Temporary Load)
 1. Go to `about:debugging#/runtime/this-firefox`  
@@ -85,13 +89,14 @@ Designed for **maximum focus, minimal interference**.
 
 ## ⚙️ How It Works
 
-Yout-ube uses **client-side DOM manipulation** to:
+Ilumu uses **client-side DOM manipulation** to:
 - Inject CSS rules that hide `.ad-container`, `#comments`, `#related`, etc.
 - Remove distracting elements without altering network traffic
 - Preserve core YouTube functionality (playback, captions, settings)
 
 ✅ **No requests are blocked.**  
-✅ **No data is sent externally** (unless optional proxy mode is enabled).
+✅ **No data is sent externally.**
+✅ **Fully open source.**
 
 ---
 
@@ -101,14 +106,10 @@ Yout-ube uses **client-side DOM manipulation** to:
 >
 > It modifies only the **local appearance** of YouTube pages using browser-side code.  
 >
-> **Do not use this to bypass content monetization at scale.** Support creators you value.  
->
-> If this extension uses **external proxy domains** (e.g., `yout-ube.com`):  
+> This extension uses **external proxy domains** (e.g., `Ilumu.com`):  
 > - That service is **not owned or controlled by the author**  
-> - Use at your own risk  
-> - Not recommended for sensitive browsing  
 >
-> The author is **not responsible** for third-party services, data leaks, or misuse.  
+> The author is **not responsible** for third-party services or misuse.  
 > Always comply with [YouTube’s Terms of Service](https://www.youtube.com/t/terms).
 
 ---
@@ -119,7 +120,7 @@ Yout-ube uses **client-side DOM manipulation** to:
 - Studying lectures or conference talks in focus mode  
 - Reducing cognitive load during long research sessions  
 - Learning ethical browser extension development  
-- Simulating clean UI environments for UX research  
+- Teachers and students use case.  
 
 Ideal for the **learning phase** where focus drives understanding.
 
@@ -129,4 +130,4 @@ Ideal for the **learning phase** where focus drives understanding.
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
-💡**Powered by:** **[yout-ube.com](https://yout-ube.com)** — Watch YouTube ad-free (without distraction), on loop, in full screen.
+💡**Powered by:** **[Ilumu.com](https://Ilumu.com)** — Watch YouTube ad-free (without distraction), on loop, in full screen.
