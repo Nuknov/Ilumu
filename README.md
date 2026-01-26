@@ -130,4 +130,4 @@ Ideal for the **learning phase** where focus drives understanding.
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
-💡**Powered by:** **[Ilumu.com](https://Ilumu.com)** — Watch YouTube ad-free (without distraction), on loop, in full screen.
+**Powered by:** **[Ilumu.com](https://Ilumu.com)** — Watch YouTube ad-free (without distraction), on loop, in full screen.
