@@ -97,8 +97,8 @@ Ilumu uses **client-side DOM manipulation** to:
 - Preserve core YouTube functionality (playback, captions, settings)
 
 ✅ **No requests are blocked.**  
-✅ **No data is sent externally.**
-✅ **Fully open source.**
+✅ **No data is sent externally.**           
+ ✅ **Fully open source.**
 
 ---
 
